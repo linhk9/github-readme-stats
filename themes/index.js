@@ -268,7 +268,11 @@ const themes = {
     icon_color: "ff1aff",
     text_color: "8080ff",
     bg_color: "141439",
-  }
+  },
+  Mine: {
+    bg_color: "#FAD961",
+    background_image: "linear-gradient(23deg, #FAD961 0%, #F76B1C 100%)";
+        },
 };
 
 module.exports = themes;
